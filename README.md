@@ -22,3 +22,5 @@ This repository contains the following Stan and R scripts used to fit Bayesian m
 
 - `David_pdr.stan`: Stan model code for trait **PDR** (parasite development rate).
 - `David_pdr.R`: R script to fit the Bayesian model for trait **PDR**.
+
+- `David_R0rel.R`: R script to compute and visualise **\( R_0^{\text{rel}} \)** using posterior trait distributions.
