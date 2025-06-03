@@ -1,4 +1,4 @@
-Research Title: Modelling Transmission Potential of Anopheles Stephensi
+**Research Title: Modelling Transmission Potential of Anopheles Stephensi**
 
 This repository contains the following Stan and R scripts used to fit Bayesian models to seven mosquito traits:
 
